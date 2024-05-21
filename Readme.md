@@ -7,6 +7,9 @@ cd Lumel
 ## Migrate the Database
 python manage.py migrate
 
+## Run the script to load the data from csv file
+python manage.py runscript dataloading
+
 ## Start the server
 python manage.py runserver
 
