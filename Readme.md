@@ -14,5 +14,5 @@ python manage.py runscript dataloading
 python manage.py runserver
 
 ## Endpoints
-http://127.0.0.1:8000/customer_analysis?start_date=28-02-2024&end_date=28-04-2024
+http://127.0.0.1:8000/customer_analysis?start_date=2024-02-28&end_date=2024-04-28
 
